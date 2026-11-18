@@ -1,1 +1,17 @@
 === start 2026年 11月18日 水曜日 17時08分48秒 JST ===
+M  cal-v1.png
+M  cal-v2.png
+M  cal-v3.png
+M  cal-v4.png
+M  cal-v5.png
+M  index.html
+M  push.log
+A  update.command
+A  update.log
+[main ca3c672] Tour time 16:00-21:00; Jan 2 fully available (8 days)
+ 9 files changed, 30 insertions(+), 2 deletions(-)
+ create mode 100755 update.command
+ create mode 100644 update.log
+To https://github.com/Yukitchy/kioka-jan-calendar.git
+   be49a4b..ca3c672  main -> main
+=== UPDATE-DONE 2026年 11月18日 水曜日 17時08分50秒 JST ===
