@@ -2,3 +2,20 @@
 /opt/homebrew/bin/git
 /opt/homebrew/bin/gh
 Initialized empty Git repository in /Users/yuki/kioka-jan-calendar/.git/
+[main (root-commit) be49a4b] Kioka January evening-tour availability board - 5 design variants
+ 8 files changed, 104 insertions(+)
+ create mode 100644 cal-v1.png
+ create mode 100644 cal-v2.png
+ create mode 100644 cal-v3.png
+ create mode 100644 cal-v4.png
+ create mode 100644 cal-v5.png
+ create mode 100644 index.html
+ create mode 100755 push.command
+ create mode 100644 push.log
+creating repo
+https://github.com/Yukitchy/kioka-jan-calendar
+To https://github.com/Yukitchy/kioka-jan-calendar.git
+ * [new branch]      HEAD -> main
+branch 'main' set up to track 'origin/main'.
+--- enable pages ---
+{"url":"https://api.github.com/repos/Yukitchy/kioka-jan-calendar/pages","status":null,"cname":null,"custom_404":false,"html_url":"https://yukitchy.github.io/kioka-jan-calendar/","build_type":"legacy","source":{"branch":"main","path":"/"},"public":true,"protected_domain_state":null,"pending_domain_unverified_at":null,"https_enforced":true}=== PUSH-DONE 2026年 11月18日 水曜日 17時03分59秒 JST ===
